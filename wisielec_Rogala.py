@@ -203,3 +203,4 @@ def game():
         print("\nPrzegrałeś - 6 błędów. Zgadywane hasło to '%s'.\n" %saying)
 
 game()
+
