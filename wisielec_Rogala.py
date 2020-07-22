@@ -40,17 +40,7 @@ def get_hint(guessed_letters, answer):
     for i in answer_set_alpha_only:
         if i not in guessed_letters:
             not_guessed.append(i)
-    return random.choice(not_guessed)
-
-class Punkt:
-	def ustaw_pkt(self, punkt1, punkt2):
-		self.punkt1 = punkt1
-		self.punkt2 = punkt2
-	def drukuj(self):
-		return "x=%d, y=%d" %(self.punkt1, self.punkt2)
-
-
-		
+    return random.choice(not_guessed)		
 
 
 drawings = {0: """
