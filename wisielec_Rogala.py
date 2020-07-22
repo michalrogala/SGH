@@ -1,5 +1,4 @@
 #Autor: Michal Rogala
-#Numer albumu: 101723
 
 import random
 
