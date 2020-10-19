@@ -1,4 +1,4 @@
-#Autor: Michal Rogala
+#Author: Michal Rogala
 
 import random
 
